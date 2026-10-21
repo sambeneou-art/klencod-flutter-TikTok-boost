@@ -1,0 +1,6 @@
+package com.kenclod.tiktokboost
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
